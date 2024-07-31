@@ -1,6 +1,6 @@
 <h1>WeLoveMovies</h1>
 <p>This project is designed to test your ability to build complex servers and access data through a database.</p>
-![image](https://github.com/user-attachments/assets/a07a1b82-6c7b-48d5-abbd-1f22172dd0b3)
+<img src="https://github.com/user-attachments/assets/a07a1b82-6c7b-48d5-abbd-1f22172dd0b3">
 <p>To succeed at this project, you'll need to demonstrate that you can do the following tasks:</p>
 <p>
  <ul>
